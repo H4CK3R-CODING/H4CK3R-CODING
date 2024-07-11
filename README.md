@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4ck3r-coding&label=Profile%20views&color=0e75b6&style=flat" alt="h4ck3r-coding" /> </p>
+<img src='./bannar.webp' alt='bannar'/>
 
 - 🔭 I’m currently working on [StudySpotlight](https://github.com/H4CK3R-CODING/StudySpotlight)
 
