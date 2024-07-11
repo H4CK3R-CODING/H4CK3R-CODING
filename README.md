@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **GSOC**
 
-- 👨‍💻 All of my projects are available at [https://gauravrathourportfolio.netlify.app/](https://gauravrathourportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gauravrathourportfolio.netlify.app/)
 
 - 💬 Ask me about **Full Stack Developer**
 
